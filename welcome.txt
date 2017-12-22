@@ -7,3 +7,4 @@ master update!
 
 first update!
 test stash
+update origin to github
